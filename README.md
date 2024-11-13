@@ -61,7 +61,7 @@ Experiments conducted on various scenes, including real-world setups, have demon
 
  <p align="center" style="text-align: center;">
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/basketball_color.gif" alt="basketball_color.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/box_color.gif" alt="box_color.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/boxes_color.gif" alt="box_color.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/football_color.gif" alt="football_color.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/juggle_color.gif" alt="juggle_color.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/softball_color.gif" alt="softball_color.gif" style="vertical-align: bottom; width:195px;"/>
@@ -80,7 +80,7 @@ Experiments conducted on various scenes, including real-world setups, have demon
 
  <p align="center" style="text-align: center;">
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/basketball_part.gif" alt="basketball_part.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/box_part.gif" alt="box_part.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/boxes_part.gif" alt="box_part.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/football_part.gif" alt="football_part.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/juggle_part.gif" alt="juggle_part.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/softball_part.gif" alt="softball_part.gif" style="vertical-align: bottom; width:195px;"/>
@@ -93,6 +93,27 @@ Experiments conducted on various scenes, including real-world setups, have demon
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/spongebowl_part.gif" alt="spongebowl_part.gif" style="vertical-align: bottom; width:195px;"/>
   <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/clothpan_part.gif" alt="clothpan_part.gif" style="vertical-align: bottom; width:195px;"/>
 </p>
+
+
+### Depth + Track Trajectories
+
+ <p align="center" style="text-align: center;">
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/basketball_depth.gif" alt="basketball_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/boxes_depth.gif" alt="box_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/football_depth.gif" alt="football_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/juggle_depth.gif" alt="juggle_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/softball_depth.gif" alt="softball_depth.gif" style="vertical-align: bottom; width:195px;"/>
+</p>
+
+ <p align="center" style="text-align: center;">
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/tennis_depth.gif" alt="tennis_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/robot_task_depth.gif" alt="robot_task_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/pendulums_depth.gif" alt="pendulums_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/spongebowl_depth.gif" alt="spongebowl_depth.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/clothpan_depth.gif" alt="clothpan_depth.gif" style="vertical-align: bottom; width:195px;"/>
+</p>
+
+
 
 
 
