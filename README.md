@@ -37,6 +37,9 @@ Experiments conducted on various scenes, including real-world setups, have demon
 
 ## Results
 
+Some gifs of the results are shown below, the original video can be found at [videos](https://github.com/PaMoSplat/anonymous_project/tree/main/videos).
+
+
 ### Gaussian Centers + Track Trajectories
 
 
