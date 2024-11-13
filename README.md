@@ -41,19 +41,19 @@ Experiments conducted on various scenes, including real-world setups, have demon
 
 
  <p align="center" style="text-align: center;">
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/basketball_center.gif" alt="basketball_center.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/box_center.gif" alt="box_center.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/football_center.gif" alt="football_center.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/juggle_center.gif" alt="juggle_center.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/softball_center.gif" alt="softball_center.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/basketball_center.gif" alt="basketball_center.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/box_center.gif" alt="box_center.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/football_center.gif" alt="football_center.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/juggle_center.gif" alt="juggle_center.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/softball_center.gif" alt="softball_center.gif" style="vertical-align: bottom; width:180px;"/>
 </p>
 
  <p align="center" style="text-align: center;">
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/tennis_center.gif" alt="tennis_color.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/robot_task_center.gif" alt="robot_task_color.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/pendulums_center.gif" alt="pendulums_color.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/spongebowl_center.gif" alt="spongebowl_color.gif" style="vertical-align: bottom; width:195px;"/>
-  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/clothpan_center.gif" alt="clothpan_color.gif" style="vertical-align: bottom; width:195px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/tennis_center.gif" alt="tennis_color.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/robot_task_center.gif" alt="robot_task_color.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/pendulums_center.gif" alt="pendulums_color.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/spongebowl_center.gif" alt="spongebowl_color.gif" style="vertical-align: bottom; width:180px;"/>
+  <img src="https://github.com/PaMoSplat/anonymous_project/blob/main/gif/clothpan_center.gif" alt="clothpan_color.gif" style="vertical-align: bottom; width:180px;"/>
 </p>
 
 
